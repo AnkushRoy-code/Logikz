@@ -1,0 +1,11 @@
+Value,Footprint,Qty
+Battery_Cell,Battery:BatteryHolder_Keystone_3034_1x20mm,1  
+LED,LED_THT:LED_D5.0mm,1  
+NPN,Package_TO_SOT_THT:TO-92L_HandSolder,6  
+R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,7  
+SW_Push,Button_Switch_THT:SW_PUSH_6mm,9  
+
+
+Resistors (Ohm), QTY,
+220,2,
+4.7k,5,
