@@ -2,4 +2,8 @@ kicad/*
 !Logikz.kicad_sch
 !Logikz.kicad_pcb
 !Logikz.kicad_pro
+
+# a hack to include the gerber files without much fuss
+!kicad/production
+kicad/production/*
 !Logikz.zip
