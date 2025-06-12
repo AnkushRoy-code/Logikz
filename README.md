@@ -1,8 +1,11 @@
-
 # Logikz
 
 I designed a simple circuit board that can function as three different logic
 gates:- `AND`, `OR`, and `NOR`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30a7a17d-0ff3-4758-9647-2a490d5e5336" alt="image of my cute elephant shaped pcb" /><br>
+</p>
 
 ### Making of Logikz
 This is my third PCB and this time around I wanted to know how transistors
@@ -25,7 +28,41 @@ load it in [circuit.js](https://www.falstad.com/circuit/circuitjs.html) to see m
 
 ### PCB
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/06f9c12e-bf34-4c05-bf65-c2df29d781f4" alt="top pcb image" width="300"/><br>
+      <b>Front Of the PCB</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a42a7a64-b207-4534-ba95-aee12923765a" alt="back pcb image" width="300"/><br>
+      <b>Back Of the PCB</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/832cce7b-9694-4537-843b-f8480b3259db" alt="back pcb without silkscreen" width="300"/><br>
+      <b>Back of the PCB without Silkscreen</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/30a7a17d-0ff3-4758-9647-2a490d5e5336" alt="top pcb image" width="300"/><br>
+      <b>Front Of the PCB (3D)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/491c1f89-e4ea-4ac0-8286-7caf7f1733cc" alt="back pcb image" width="300"/><br>
+      <b>Back Of the PCB (3D)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/52db83fe-d667-4b68-b153-32be83ecdb65" alt="circuit simulation photo" width="300"/><br>
+      <b>Simulation in CircuitJS</b>
+    </td>
+  </tr>
+</table>
+
 ### SChematic
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d7117c3-b738-418a-af0a-5732e502979e" alt="image of my cute elephant shaped pcb" /><br>
+</p>
 
 ### BOM
 `~/BOM.csv` has BOM of this project.
